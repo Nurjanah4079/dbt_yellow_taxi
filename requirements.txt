@@ -1,0 +1,5 @@
+./core
+./plungins/postgres 
+./plungins/redshift 
+./plungins/snowflake
+./plungins/bigquery
