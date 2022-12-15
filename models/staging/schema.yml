@@ -1,0 +1,42 @@
+version: 2
+
+
+sources:
+  - name: nyc_yellow_taxi
+    schema: nyc_yellow_taxi
+    tables:
+      - name: yellow_tripdata_2019-01
+        identifier: yellow_tripdata_2019-01
+
+      - name: yellow_tripdata_2019-02
+        identifier: yellow_tripdata_2019-02
+
+      - name: yellow_tripdata_2019-03
+        identifier: yellow_tripdata_2019-03
+
+      - name: yellow_tripdata_2019-04
+        identifier: yellow_tripdata_2019-04
+
+      - name: yellow_tripdata_2019-05
+        identifier: yellow_tripdata_2019-05
+
+      - name: yellow_tripdata_2019-06
+        identifier: yellow_tripdata_2019-06
+
+      - name: yellow_tripdata_2019-07
+        identifier: yellow_tripdata_2019-07
+
+      - name: yellow_tripdata_2019-08
+        identifier: yellow_tripdata_2019-08
+
+      - name: yellow_tripdata_2019-09
+        identifier: yellow_tripdata_2019-09
+
+      - name: yellow_tripdata_2019-10
+        identifier: yellow_tripdata_2019-10
+
+      - name: yellow_tripdata_2019-11
+        identifier: yellow_tripdata_2019-11
+      
+      - name: yellow_tripdata_2019-12
+        identifier: yellow_tripdata_2019-12
